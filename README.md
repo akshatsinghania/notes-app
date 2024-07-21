@@ -3,4 +3,6 @@ I have made a To-Do List App.This todo list app is user friendly .This app has a
 
 
 git deploy link  https://akshatsinghania.github.io/todo-list/
-git repository link  https://github.com/akshatsinghania/notes-app.git ![Uploading Screenshot 2024-07-21 at 9.43.35 pm.png…]()
+git repository link  https://github.com/akshatsinghania/notes-app.git 
+
+<img width="1067" alt="Screenshot 2024-07-21 at 9 44 32 pm" src="https://github.com/user-attachments/assets/f87e7160-9871-4a7d-abd0-fb88c0ee58f6">
